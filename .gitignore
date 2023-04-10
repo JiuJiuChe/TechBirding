@@ -132,3 +132,4 @@ dmypy.json
 *state.txt
 *.pkl
 .DS_Store
+*.pyc
